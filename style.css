@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to bottom,pink 0%,pink 20%,lightblue 20%,lightblue 100%);
+    min-height: 100vh;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-size-adjust: 30px;}
+p{
+    text-align: center;
+    color: #ffffff;
+    text-size-adjust: 20px;
+}
+.button{
+    display: absolute;
+    margin: 0 auto;
+    padding: 16px;
+    font-size: 18px;
+    background-color: #f80505;
+    color: #ffffff;
+    border-radius: 12px;
+    cursor: pointer;
+    border: solid 2px black
+}
+.img{
+    display: block;
+    margin: auto;
+}
